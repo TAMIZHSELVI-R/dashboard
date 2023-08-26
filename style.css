@@ -1,0 +1,48 @@
+.tab{
+    position: relative;
+        width: 480px;
+        border-radius: 6px;
+        margin: auto;
+        margin-top: 20vh;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    }
+    .main{
+        display:flex;
+        align-items: center;
+    padding: 20px;
+    justify-content: space-evenly;
+    height: 15vh;
+    
+    
+    
+    }
+    .views{
+        width: 80%;
+    }
+    #view{
+        font-size: 30px;
+        font-weight: 600;
+        color: rgb(236, 126, 52);
+    }
+    span{
+        font-size: 18px;
+        color: rgb(132, 132, 132);
+    }
+    
+    .foot{
+        background-color: rgb(236, 126, 52);
+        height: 8vh;
+        display: flex;
+        align-items: center;
+        justify-content:space-evenly;
+        padding: 10px 20px;
+        color: white;
+    }
+    .change{
+        width: 80%;
+        font-weight: 600;
+    
+    }
+    i{
+        font-size: 30px;
+    }
